@@ -22,4 +22,4 @@ In the next section we'll be learning about setting up the UIView, working with 
 
   
 
-Contact Drew[drewskis@umich.edu] or Thomas[thsm@umich.edu] if you have any questions.
+Contact Finn[fdm@umich.edu] or Caleb[calebqiu@umich.edu] if you have any questions.
