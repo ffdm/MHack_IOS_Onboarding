@@ -49,4 +49,4 @@ The next section is actually linking our UI elements up to the swift code and wr
 
 [Swift, Actions, and Outlets](https://github.com/ffdm/MHack_IOS_Onboarding/blob/main/SwiftBasics.md)
 
-Contact [Finn](fdm@umich.edu) or [Caleb](calebqiu@umich.edu) if you have any questions.
+Contact Finn at fdm@umich.edu or Caleb at calebqiu@umich.edu if you have any questions.
