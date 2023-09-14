@@ -22,4 +22,4 @@ In the next section we'll be learning about setting up the UIView, working with 
 [Xcode and Interface Builder](https://github.com/ffdm/MHack_IOS_Onboarding/blob/main/Xcode%26IB.md)
   
 
-Contact Finn[fdm@umich.edu] or Caleb[calebqiu@umich.edu] if you have any questions.
+Contact Finn at fdm@umich.edu or Caleb at calebqiu@umich.edu if you have any questions.
