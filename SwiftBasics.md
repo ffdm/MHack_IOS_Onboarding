@@ -76,4 +76,4 @@ Feel free to look stuff up!
 ## Next Section
 Next time we're gonna be using our knowledge of actions and outlets to actually make the game.
 
-Contact Drew[drewskis@umich.edu] or Thomas[thsm@umich.edu] if you have any questions.
+Contact Finn at fdm@umich.edu or Caleb at calebqiu@umich.edu if you have any questions.
