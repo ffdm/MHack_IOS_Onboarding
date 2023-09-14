@@ -47,4 +47,6 @@ Feel free to experiment! Best way to learn is to experiment and break stuff. Tha
 ## Next Section
 The next section is actually linking our UI elements up to the swift code and writing some Swift code to control the game! I'd recommend looking up a basic swift tutorial or two to get used to it.
 
-Contact Drew[drewskis@umich.edu] or Thomas[thsm@umich.edu] if you have any questions.
+[Swift, Actions, and Outlets](https://github.com/ffdm/MHack_IOS_Onboarding/blob/main/SwiftBasics.md)
+
+Contact Finn[fdm@umich.edu] or Caleb[calebqiu@umich.edu] if you have any questions.
