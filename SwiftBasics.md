@@ -76,4 +76,6 @@ Feel free to look stuff up!
 ## Next Section
 Next time we're gonna be using our knowledge of actions and outlets to actually make the game.
 
+[Simple Game Logic and Control Flow](https://github.com/ffdm/MHack_IOS_Onboarding/blob/main/GameLogic.md)
+
 Contact Finn at fdm@umich.edu or Caleb at calebqiu@umich.edu if you have any questions.
