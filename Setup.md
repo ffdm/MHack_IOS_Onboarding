@@ -19,7 +19,7 @@ Paste the link you just copied into the text field at the top of the window and 
 ## Next Section
 In the next section we'll be learning about setting up the UIView, working with constraints, and going over the general sections of Xcode! woop woop
   
-
+[Xcode and Interface Builder](https://github.com/ffdm/MHack_IOS_Onboarding/blob/main/Xcode%26IB.md)
   
 
-Contact Drew[drewskis@umich.edu] or Thomas[thsm@umich.edu] if you have any questions.
+Contact Finn[fdm@umich.edu] or Caleb[calebqiu@umich.edu] if you have any questions.
