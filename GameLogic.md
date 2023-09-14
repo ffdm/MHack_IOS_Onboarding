@@ -109,5 +109,5 @@ There are a bunch of places you can go from here! Here are a couple of ideas to 
 - Whatever your heart desires :)
 
 
-Contact Drew[drewskis@umich.edu] or Thomas[thsm@umich.edu] if you have any questions.
+Contact Finn at fdm@umich.edu or Caleb at calebqiu@umich.edu if you have any questions.
 
